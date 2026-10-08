@@ -1,3 +1,35 @@
+<!-- repository-overview:start -->
+## 📌 저장소 한눈에 보기
+
+**Hitomi.la 자료 검색·다운로드·정리 앱**
+
+| 구분 | 내용 |
+|---|---|
+| 분류 | 기타 서비스·도구 |
+| 공개 범위 · 2026-10-09 확인 | 공개 |
+| 저장소 형태 | 외부 프로젝트 포크 |
+| 기본 브랜치 | `main` |
+| 주요 구성 | Tauri·Rust 데스크톱 앱 |
+
+### 주요 기능·내용
+
+- GUI 검색·자료 상세·병렬 다운로드
+- 로컬 폴더 확인·PDF/CBZ 내보내기
+- 다국어·폴더/파일명 규칙
+
+원본 프로젝트: [lanyeeee/hitomi-downloader](https://github.com/lanyeeee/hitomi-downloader)
+
+### 바로 관리하기
+
+**[📝 설명·메모 수정](https://github.com/calce2/hitomi-downloader/edit/main/README.md) · [⚙️ 설정](https://github.com/calce2/hitomi-downloader/settings) · [📦 보관 / 🗑️ 삭제 설정](https://github.com/calce2/hitomi-downloader/settings#danger-zone)**
+
+보관·삭제 링크는 해당 저장소의 Settings → Danger Zone으로 이동합니다. 실행은 그 화면에서 선택하고 확인합니다.
+
+<sub>2026-10-09 작성 · 코드·문서를 기준으로 한 소개입니다. 공개 범위와 기능이 바뀌면 이 기록도 갱신하세요.</sub>
+<!-- repository-overview:end -->
+
+---
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/efd0470a-f5cb-4c1d-a0c3-3f5c39113933" style="align-self: center"/>
 </p>
